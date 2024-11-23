@@ -9,8 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.1",
+    "bootstrap": "^5.3.3",
+    "file-saver": "^2.0.5",
+    "next": "15.0.3",
+    "papaparse": "^5.4.1",
     "react": "19.0.0-rc-66855b96-20241106",
+    "react-csv": "^2.2.2",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "react-papaparse": "^4.4.0",
+    "read-excel-file": "^5.8.6",
+    "xlsx": "^0.18.5",
+    "xlsx-style": "^0.8.13"
   }
 }
